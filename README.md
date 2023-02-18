@@ -1,6 +1,6 @@
 # Demo
-A little description!
+Small description!
 ## Subheader
 
-I like Melafefoni
-and tomatoes to
+I like Melafefonim
+and tomatoes too
