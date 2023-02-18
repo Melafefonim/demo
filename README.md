@@ -9,3 +9,4 @@ and tomatoes too
 ## Instructions:
 
 1. go to github.com
+2. search for "git hub"
