@@ -1,4 +1,4 @@
 import random
 
-print("Wow im in git hub")
-print("This is amazing!")
+print("Wow im in github")
+print("This is wonderful!")
